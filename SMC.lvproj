@@ -17,6 +17,10 @@
 			<Item Name="Reading Value.vi" Type="VI" URL="../Reading Value.vi"/>
 			<Item Name="Shutting Down.vi" Type="VI" URL="../Shutting Down.vi"/>
 		</Item>
+		<Item Name="Support" Type="Folder">
+			<Item Name="Check for Quit Condition.vi" Type="VI" URL="../Check for Quit Condition.vi"/>
+			<Item Name="Global Variables.vi" Type="VI" URL="../Global Variables.vi"/>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
